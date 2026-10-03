@@ -1,0 +1,4 @@
+# Jangan upload konfigurasi/token asli ke repository publik
+config/fonnte.local.php
+.env
+*.log
